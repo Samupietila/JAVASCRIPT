@@ -8,7 +8,7 @@ pohja:
 <head>
     <meta charset="UTF-8">
     <title>JavaScript tehtävä</title>
-    <script src="tehtävä.js" defer></script>
+    <script src="tehtävä1_3.js" defer></script>
 </head>
 <body>
 <h1>Greeting</h1>
