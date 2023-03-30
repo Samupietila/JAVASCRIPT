@@ -10,7 +10,7 @@ x.appendChild(y);
 const element = document.getElementById('ul');
 element.appendChild(x);
 do {
-  Aloitusvuosi += 4
+  Aloitusvuosi += 4;
   const x = document.createElement('li');
   let y = document.createTextNode(Aloitusvuosi);
   x.appendChild(y);
